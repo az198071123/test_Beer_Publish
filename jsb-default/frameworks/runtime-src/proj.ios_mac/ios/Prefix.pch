@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'hr_project' target in the 'hr_project' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
